@@ -1,0 +1,74 @@
+body
+{
+    background: radial-gradient( rgb(17, 235, 235),rgb(17, 235, 235), rgb(6, 149, 149));
+}
+.google
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px; 
+    background-color: white;
+}
+.heading
+{
+    color: azure;
+    padding-top: 20px;
+    background-color: rgba(2, 92, 92, 0.851);
+    height: 80px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:8px 10px 10px white;
+}
+.heading b
+{
+    color: rgb(240, 84, 178);
+}
+.compare
+{
+    background-color: royalblue;
+    width: 20%;
+    color: aliceblue;
+    border-radius: 40px ;
+    text-shadow: 5px 3px rgb(1, 24, 44);
+}
+
+.compare:hover
+{
+    background-color: aliceblue;
+    color: black;
+} 
+.test_image_and_result
+{
+    background-color: rgba(255, 255, 0, 0.673);
+    width: 75%;
+    height: 55%;
+    border-radius: 15px;
+    margin-left: 185px;
+    margin-top: 50px;
+} 
+.test_image_and_result img
+{
+    margin-top: 20%;
+}
+.test
+{
+    background-color: aliceblue;
+    width: 20%;
+    height: 30px;
+}
+.mini_result h4
+{
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+}
+.copy_right_footer
+  {
+    font-size: 20px;
+    bottom: 0;
+    background-color: rgba(4, 146, 146, 0.873);
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    position: fixed;
+  }
+ 
